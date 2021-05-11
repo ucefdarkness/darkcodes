@@ -1,0 +1,16 @@
+:root {
+  --bodyC: white;
+  --Pcolor: #6c5ce7;
+  --Scolor: #130f40;
+  --gray: #2f3640;
+  --grayP: #dcdde1;
+  --fontF: "Kalam", cursive;
+  --font: "Permanent Marker", cursive;
+  --fontS: 16px;
+  --ligner: radial-gradient(
+    circle,
+    rgba(108, 92, 231, 1) 16%,
+    rgba(135, 92, 231, 1) 100%
+  );
+  --lignerS: linear-gradient(274deg, rgba(10,22,79,1) 0%, rgba(143,0,255,1) 100%);
+}
